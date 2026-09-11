@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "on6qSq7g5VJybHYJ+92ffup2krFdChucKu1VVIc6yjVztEHwj5CIxMgeymxiu7ZZtm/fHnSLxOGiaq16tsG3hA==",
+  "dgSpecHash": "P55ivzSZk1SbKpkgUZ1NsGaLsslDcplNknLuLd6kzyo5O4j3MbMK5Ad/PoN+081ib5YnRYLz8uCz91CvNK6ZyA==",
   "success": true,
-  "projectFilePath": "/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility.Tests/ScholarshipEligibility.Tests.csproj",
+  "projectFilePath": "/Users/rinaldojunior/Documents/Projects/Testes/Introdução a Testes/APS - 1/ScholarshipEligibility.Tests/ScholarshipEligibility.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/rinaldojunior/.nuget/packages/coverlet.collector/10.0.1/coverlet.collector.10.0.1.nupkg.sha512",
     "/Users/rinaldojunior/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",

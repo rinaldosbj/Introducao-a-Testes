@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DRGaUorY4r/bC5ET9BvXLzuV596rLQ9uDvmL1MKRv9Q6Vh8Vv4PtYu2MO2Ho+xxBSOuz9MQKJsydOQ/A7ZduIg==",
+  "dgSpecHash": "lw+bVtdMaWYVRcxYiI78tvwHlntNhiooiQxxMSQh2QAlCbvi45i9CxZQTz6IZh/dCTwg/XYZg7IJouZ2KXPKJg==",
   "success": true,
-  "projectFilePath": "/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/ScholarshipEligibility.csproj",
+  "projectFilePath": "/Users/rinaldojunior/Documents/Projects/Testes/Introdução a Testes/APS - 1/ScholarshipEligibility/ScholarshipEligibility.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

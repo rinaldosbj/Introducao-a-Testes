@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/ScholarshipEligibility.csproj": {}
+    "/Users/rinaldojunior/Documents/Projects/Testes/Introdução a Testes/APS - 1/ScholarshipEligibility/ScholarshipEligibility.csproj": {}
   },
   "projects": {
-    "/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/ScholarshipEligibility.csproj": {
+    "/Users/rinaldojunior/Documents/Projects/Testes/Introdução a Testes/APS - 1/ScholarshipEligibility/ScholarshipEligibility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/ScholarshipEligibility.csproj",
+        "projectUniqueName": "/Users/rinaldojunior/Documents/Projects/Testes/Introdução a Testes/APS - 1/ScholarshipEligibility/ScholarshipEligibility.csproj",
         "projectName": "ScholarshipEligibility",
-        "projectPath": "/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/ScholarshipEligibility.csproj",
+        "projectPath": "/Users/rinaldojunior/Documents/Projects/Testes/Introdução a Testes/APS - 1/ScholarshipEligibility/ScholarshipEligibility.csproj",
         "packagesPath": "/Users/rinaldojunior/.nuget/packages/",
-        "outputPath": "/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/obj/",
+        "outputPath": "/Users/rinaldojunior/Documents/Projects/Testes/Introdução a Testes/APS - 1/ScholarshipEligibility/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rinaldojunior/.nuget/NuGet/NuGet.Config"

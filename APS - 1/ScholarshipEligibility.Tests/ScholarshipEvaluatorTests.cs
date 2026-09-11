@@ -186,4 +186,44 @@ public class ScholarshipEvaluatorTests
 
         Assert.Contains("Applicant has a disciplinary record.", result.Reasons);
     }
+
+    [Fact]
+    public void ShouldAcceptGpaAtMinimumBoundary()
+    {
+        var result = ScholarshipEvaluator.EvaluateScholarship(18, 0.0, 90.0, true, false);
+
+        Assert.Equal(Status.REJECTED, result.Status);
+
+        Assert.Contains("GPA is below the minimum required.", result.Reasons);
+    }
+
+    [Fact]
+    public void ShouldAcceptGpaAtMaximumBoundary()
+    {
+        var result = ScholarshipEvaluator.EvaluateScholarship(18, 10.0, 90.0, true, false);
+
+        Assert.Equal(Status.APPROVED, result.Status);
+
+        Assert.Equal(new[] { "Applicant meets all scholarship requirements." }, result.Reasons);
+    }
+
+    [Fact]
+    public void ShouldAcceptAttendanceAtMinimumBoundary()
+    {
+        var result = ScholarshipEvaluator.EvaluateScholarship(18, 8.0, 0.0, true, false);
+
+        Assert.Equal(Status.REJECTED, result.Status);
+
+        Assert.Contains("Attendance rate is below the minimum required.", result.Reasons);
+    }
+
+    [Fact]
+    public void ShouldAcceptAttendanceAtMaximumBoundary()
+    {
+        var result = ScholarshipEvaluator.EvaluateScholarship(18, 8.0, 100.0, true, false);
+
+        Assert.Equal(Status.APPROVED, result.Status);
+
+        Assert.Equal(new[] { "Applicant meets all scholarship requirements." }, result.Reasons);
+    }
 }
