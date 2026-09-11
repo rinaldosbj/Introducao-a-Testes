@@ -1,3 +1,73 @@
+#Instruções de execução
+
+### Pré-requisitos
+
+- .NET SDK 8.0 ou superior
+- Stryker.NET 4.16.0
+
+### Executando os testes
+Entre no diretório do projeto de testes:
+```text
+cd ScholarshipEligibility.Tests
+```
+
+O comando principal para executar a suíte é:
+```text
+dotnet test
+```
+A suíte final possui 23 testes automatizados.
+Executando a análise de cobertura
+
+Na pasta ScholarshipEligibility.Tests, execute:
+```text
+dotnet test --collect:"XPlat Code Coverage"
+```
+
+
+O relatório de cobertura é gerado no diretório:
+`TestResults/`
+em um arquivo chamado:
+`coverage.cobertura.xml`
+Executando a análise de mutação
+
+A ferramenta utilizada é o `Stryker.NET versão 4.16.0.`
+O Stryker é instalado como ferramenta global:
+```text
+dotnet tool install --global dotnet-stryker --version 4.16.0
+```
+
+
+Para executar a análise de mutação, estando na pasta ScholarshipEligibility.Tests, utilize:
+```text
+dotnet-stryker
+```
+
+
+O relatório HTML será gerado automaticamente dentro de:
+`StrykerOutput/`
+
+Normalmente, o relatório pode ser encontrado em:
+`StrykerOutput/<data-e-hora>/reports/mutation-report.html`
+
+### Comandos principais
+**Executar os testes:**
+```text
+dotnet test
+```
+**Executar a cobertura:**
+```text
+dotnet test --collect:"XPlat Code Coverage"
+```
+**Executar a análise de mutação:**
+```text
+dotnet-stryker
+```
+
+
+
+
+
+# Relatório
 ## 1. Identificação
 
 **Aluno:** Rinaldo Junior  
