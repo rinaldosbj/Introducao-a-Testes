@@ -1,0 +1,11 @@
+/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/bin/Debug/net8.0/ScholarshipEligibility.deps.json
+/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/obj/Debug/net8.0/ScholarshipEligibility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/obj/Debug/net8.0/ScholarshipEligibility.AssemblyInfoInputs.cache
+/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/obj/Debug/net8.0/ScholarshipEligibility.AssemblyInfo.cs
+/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/bin/Debug/net8.0/ScholarshipEligibility.dll
+/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/bin/Debug/net8.0/ScholarshipEligibility.pdb
+/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/obj/Debug/net8.0/ScholarshipEligibility.csproj.CoreCompileInputs.cache
+/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/obj/Debug/net8.0/ScholarshipEligibility.dll
+/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/obj/Debug/net8.0/refint/ScholarshipEligibility.dll
+/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/obj/Debug/net8.0/ScholarshipEligibility.pdb
+/Users/rinaldojunior/Documents/Projects/Testes/APS - 1/ScholarshipEligibility/obj/Debug/net8.0/ref/ScholarshipEligibility.dll
